@@ -1,0 +1,2 @@
+NES-related tools, meant for personal usage.
+ - dump.c: dumps the prog and chr roms of standard cartridges.
